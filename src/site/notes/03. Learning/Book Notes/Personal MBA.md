@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-learning/book-notes/personal-mba/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/03-learning/book-notes/personal-mba/"}
 ---
 
 
